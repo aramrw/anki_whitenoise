@@ -1,5 +1,7 @@
 # Anki White Noise & Ambient Audio Player
 
+<img width="818" height="298" alt="Screenshot 2026-10-28 at 11 51 52 AM" src="https://github.com/user-attachments/assets/2c25b86a-1944-4ab2-bdce-17433fb1c4e6" />
+
 A lightweight Anki add-on that plays continuous looping background audio (white noise, brown noise, ambient tracks, etc.) while you use Anki, without interrupting card review audio.
 
 ## Features
